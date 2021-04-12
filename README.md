@@ -1,6 +1,7 @@
 # Netflix_Data_Analyst
 Netflix Data Analyst is a self project to train my own skill by Cleaning and Analyzing Netflix data and give insight about the data. <br/><br/>
 
+**Column** <br/>
 **show_id**       : Unique ID for every Movie / Tv Show <br/>
 **type**          : Identifier - A Movie or TV Show <br/>
 **title**         : Name of the Show <br/>
